@@ -1,6 +1,6 @@
 # Vault Tools
 
-Obsidian vault utilities for the Helio Dash ecosystem.
+Obsidian vault utilities
 
 ## Scripts
 
